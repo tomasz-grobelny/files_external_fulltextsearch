@@ -1,0 +1,14 @@
+{
+    "type": "library",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Tomasz Grobelny",
+            "email": "tomasz@grobelny.net"
+        }
+    ],
+    "require": {
+        "icewind/streams": ">=0.2.0",
+        "elasticsearch/elasticsearch": "~5.0"
+    }
+}
